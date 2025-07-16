@@ -20,7 +20,7 @@ A clean, ad-free, battery-friendly compass app built with Flutter — focused on
 
 ## 📦 Download
 
-You can [download the APK here]([https://github.com/akhildesai20/CompassApp/blob/master/APK/Compass%20App%20-%20Akhil%20Desai.apk](https://github.com/akhildesai20/CompassApp/releases/download/v1.0.0/Compass.App.-.Akhil.Desai.apk)
+You can [download the APK here]([https://github.com/akhildesai20/CompassApp/blob/master/APK/Compass%20App%20-%20Akhil%20Desai.apk](https://github.com/akhildesai20/CompassApp/releases/download/v1.0.0/Compass.App.-.Akhil.Desai.apk))
 No signups. No in-app nags. Just pure compass.
 
 ---
