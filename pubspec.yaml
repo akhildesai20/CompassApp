@@ -1,0 +1,41 @@
+name: minimalist_compass
+description: A flat, minimalist compass built with Flutter
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'   # works with Flutter 3.29.x or newer
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_compass: ^0.8.1
+  geolocator: ^11.0.0
+  geocoding: ^3.0.0
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+  flutter_launcher_icons: ^0.13.1
+  flutter_native_splash: ^2.3.2
+
+flutter_launcher_icons:
+  android: true
+  ios: false
+  image_path: "assets/icon.png"
+
+flutter_native_splash:
+  color: "#000000"           # Background color (change to match your app theme)
+  image: assets/icon.png   # Path to your splash image
+  android: true
+  ios: false                 # Enable later if needed
+  android_gravity: center
+
+  android_12:
+    image: assets/icon.png
+    color: "#000000"
+    background_color: "#000000"
+
+flutter:
+  uses-material-design: true
