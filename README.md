@@ -63,5 +63,5 @@ I care about clarity, finish, and usefulness.
 
 Hope it helps you stay on course. ✨
 
-— [@AkhilDesai](https://www.linkedin.com/in/your-profile)
+— [@AkhilDesai](https://www.linkedin.com/in/akhildesai20)
 
